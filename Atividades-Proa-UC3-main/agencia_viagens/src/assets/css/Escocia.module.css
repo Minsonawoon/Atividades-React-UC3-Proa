@@ -1,0 +1,6 @@
+.fundo{
+    background-image: url(../imagens/Escocia.jpeg);
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+}

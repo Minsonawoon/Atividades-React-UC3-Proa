@@ -1,0 +1,39 @@
+.content{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 18px;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
+
+.menu{
+    width: 500px;
+}
+
+ul{
+    width: 100%;
+    list-style-type: none; /*tira a marcação da lista*/
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+li{
+    margin: 5px;
+}
+
+.login{
+    width: 150px;
+}
+
+.lupa{
+    width: 30px;
+    height: 30px;
+}
