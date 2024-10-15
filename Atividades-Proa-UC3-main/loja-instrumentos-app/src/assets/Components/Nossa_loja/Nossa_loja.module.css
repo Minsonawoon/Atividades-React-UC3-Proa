@@ -1,0 +1,42 @@
+.section_vermelha{
+    background-color: #BA120E;
+    width: 95%;
+    height: 500px;
+    margin: auto;
+    border-top: 20px solid #C57175;
+    border-bottom: 20px solid #C57175;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.section_vermelha .quadrado{
+    background-color: #C57175;
+    width: 42%;
+    height: 400px;
+    padding: 20px;
+    margin: 30px;
+}
+
+h2{
+    font-weight: 700;
+    font-size: 28px;
+    padding-bottom: 25px;
+}
+
+.texto{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px 15px;
+    font-size: 2vh;
+}
+
+.section_vermelha .quadrado1{
+    background-image: url(../../images/loja.jpg);
+    background-size: cover;
+    width: 42%;
+    height: 400px;
+    padding: 20px;
+    margin: 30px;
+}
+

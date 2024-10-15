@@ -1,0 +1,71 @@
+.section_laranja{
+    background-color: #ffffff;
+    width: 93.7%;
+    height: 550px;
+    margin: auto;
+    border-right: 20px solid #C57175;
+    border-bottom: 20px solid #C57175;
+    display: flex;
+    flex-direction: row;
+}
+
+p{
+    padding-left: 20px;
+}
+
+form{
+    width: 50%;
+    height: auto;
+    padding: 25px 35px;
+    align-items: center;
+    position: relative;
+}
+
+label{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input{
+    padding: 20px 20px;
+    border-radius: 5px;
+    width: 500px;
+}
+
+textarea{
+    padding: 20px 20px;
+    border-radius: 5px;
+    width: 400px;
+    height: 10rem;
+}
+
+.enviar{
+    width: 480px;
+    padding: 15px 20px;
+}
+
+aside{
+    width: 45%;
+    height: 200px;
+    align-items: center;
+    position: relative;
+    margin-top: 10%;
+    text-align: center;
+}
+
+aside p{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin: 0;
+    color: rgb(2, 2, 112);
+}
+
+
+.redes_socias a img{
+    width: 100px;
+    height: 100px;
+    margin: 0px 5px;
+    justify-content: center;
+}
+
