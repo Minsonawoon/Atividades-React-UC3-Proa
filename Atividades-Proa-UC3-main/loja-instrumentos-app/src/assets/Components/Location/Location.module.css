@@ -11,13 +11,14 @@
 }
 
 .section_azul{
-    background-image: url(../../images/mapa.png);
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-color: aqua;
     width: 42%;
     height: 400px;
-    padding: 20px;
-    margin: 30px;
+}
+
+.section_azul iframe{
+    width: 100%;
+    height: 100%;
 }
 
 .local_loja{
