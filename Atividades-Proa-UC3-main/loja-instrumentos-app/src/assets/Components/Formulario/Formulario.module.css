@@ -61,11 +61,12 @@ aside p{
     color: rgb(2, 2, 112);
 }
 
-
 .redes_socias a img{
     width: 100px;
     height: 100px;
     margin: 0px 5px;
     justify-content: center;
+    display: flex;
 }
+
 
