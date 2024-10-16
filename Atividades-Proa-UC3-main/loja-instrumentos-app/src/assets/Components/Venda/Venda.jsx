@@ -8,24 +8,6 @@ function Venda({imagem, nome, preco}){
                 <div className={Style.nome}>{nome}</div>
                 <div className={Style.preco}>{preco}</div>
             </section>
-
-            <section className={Style.area_branca}>
-                <img src={imagem} className={Style.imagem} alt="" />
-                <div className={Style.nome}>{nome}</div>
-                <div className={Style.preco}>{preco}</div>
-            </section>
-
-            <section className={Style.area_branca}>
-                <img src={imagem} className={Style.imagem} alt="" />
-                <div className={Style.nome}>{nome}</div>
-                <div className={Style.preco}>{preco}</div>
-            </section>
-
-            <section className={Style.area_branca}>
-                <img src={imagem} className={Style.imagem} alt="" />
-                <div className={Style.nome}>{nome}</div>
-                <div className={Style.preco}>{preco}</div>
-            </section>
         </div>
      );
 }
